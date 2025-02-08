@@ -12,6 +12,10 @@ export const NAV_LIST = [
     name: "About Us",
   },
   {
+    url: "/",
+    name: "Gallery",
+  },
+  {
     url: "/contact",
     name: "Contact Us",
   },
@@ -30,8 +34,8 @@ export const FOOTER_LIST = [
     name: "About Us",
   },
   {
-    url: "/privacy",
-    name: "Policy",
+    url: "/",
+    name: "Gallery",
   },
   {
     url: "/contact",
