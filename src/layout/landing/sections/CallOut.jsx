@@ -4,6 +4,16 @@ import React from "react";
 
 
 const CallOutMenu = ({ show }) => {
+  const handleScroll = (e, name) => {
+    e.preventDefault();
+    // Convert the link name to an id (e.g., "About Us" -> "about-us")
+    const sectionId = name.toLowerCase().replace(/\s+/g, '-');
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   return (
     <>
       <div className="fixed menu-top top-0 h-screen z-[1000] bg-modal w-full"
@@ -25,7 +35,9 @@ const CallOutMenu = ({ show }) => {
             <ul className=" grid gap-6">
               {FOOTER_LIST.map((item, i) => (
                 <li key={i}>
-                  <Link to={item.url} className="">
+                  <Link to={item.url} className=""
+                    onClick={(e) => handleScroll(e, item.name)}
+                  >
                     {item.name}
                   </Link>
                 </li>

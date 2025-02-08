@@ -40,7 +40,7 @@ const Footer = () => {
               />
             <div className="lg:w-10/12 mt-4">
               <p className="fs-500">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam. Fusce ut placerat orci. Nulla ac interdum ligula. Aenean et ipsum vel augue vehicula aliquet.
+              Welcome to TopBridge Homes – where quality, comfort, and elegance meet to create the perfect living experience.
               </p>
             </div>
             <div className="lg:pl-0">
@@ -60,9 +60,6 @@ const Footer = () => {
             <ul className="grid gap-6 fs-500">
               <li>
                 <Link to={"/"}>Home</Link>
-              </li>
-              <li>
-                <Link to={"/faqs"}>FAQs</Link>
               </li>
               <li>
                 <Link to={"/join-us"}>About Us</Link>

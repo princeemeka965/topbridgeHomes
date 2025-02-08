@@ -8,6 +8,17 @@ import React from "react";
 
 const Header = ({ fixed }) => {
   const [showMenu, setShowMenu] = useState(false);
+
+  const handleScroll = (e, name) => {
+    e.preventDefault();
+    // Convert the link name to an id (e.g., "About Us" -> "about-us")
+    const sectionId = name.toLowerCase().replace(/\s+/g, '-');
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+  
   return (
     <>
       <div
@@ -34,6 +45,7 @@ const Header = ({ fixed }) => {
                   <li key={i}>
                     <Link
                       to={item.url}
+                      onClick={(e) => handleScroll(e, item.name)}
                       className={`text-ter fw-500`}
                     >
                       {item.name}

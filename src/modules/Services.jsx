@@ -19,7 +19,7 @@ const Services = () => {
     ];
     return (
         <>
-            <div className="section bg-[#172748] text-white">
+            <div className="section bg-[#172748] text-white" id="our-services">
                 <div className="box">
                     <div className="lg:flex items-center flex-row-reverse">
                         <div className="lg:w-6/12 flex justify-center">

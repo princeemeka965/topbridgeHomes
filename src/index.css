@@ -485,3 +485,13 @@ input[type="checkbox"]:checked {
 .unbound {
   font-family: "Unbounded", sans-serif;
 }
+
+.breadcrumb {
+  padding: 120px 0px 80px 0px !important;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  background-image: url(https://res.cloudinary.com/greenmouse-tech/image/upload/v1738004599/image_p6abio.jpg);
+}

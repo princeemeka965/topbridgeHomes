@@ -2,7 +2,7 @@ import ProfSlides, { ProfSlidesSm } from "../components/ProfSlides";
 
 const Gallery = () => {
     return (
-        <div className="section py-0">
+        <div className="section py-0" id="gallery">
             <div className="box lg:section py-5">
                 <div>
                     <div>

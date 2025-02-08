@@ -21,7 +21,7 @@ const HeroSlide = () => {
         className="h-[570px]"
       >
         <SwiperSlide>
-        <div
+          <div
             className={`w-full h-full`}
           >
             <img src="https://res.cloudinary.com/campnet/image/upload/v1739016001/luxury-water-swimming-resort-hotel_csulj0.jpg" className="absolute w-full h-full object-cover" />
@@ -37,11 +37,8 @@ const HeroSlide = () => {
                   </div>
                 </div>
                 <div className="w-full lg:w-[658px] mt-10 lg:mt-3">
-                <p className="text-2xl md:text-3xl lg:text-[45px] fw-600 leading-[40px] lg:leading-normal">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </p>
-                  <p className="fw-600 mt-4">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam. Fusce ut placerat orci. Nulla ac interdum ligula. Aenean et ipsum vel augue vehicula aliquet.
+                  <p className="text-2xl md:text-3xl lg:text-[45px] fw-600 leading-[40px] lg:leading-normal">
+                    Welcome to TopBridge Homes – where quality, comfort, and elegance meet to create the perfect living experience.
                   </p>
                 </div>
                 <div className="lg:flex gap-x-6 itms-center mt-10">
@@ -67,11 +64,8 @@ const HeroSlide = () => {
                   </div>
                 </div>
                 <div className="w-full lg:w-[658px] mt-10 lg:mt-3">
-                <p className="text-2xl md:text-3xl lg:text-[45px] fw-600 leading-[40px] lg:leading-normal">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  </p>
-                  <p className="fw-600 mt-4">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam. Fusce ut placerat orci. Nulla ac interdum ligula. Aenean et ipsum vel augue vehicula aliquet.
+                  <p className="text-2xl md:text-3xl lg:text-[45px] fw-600 leading-[40px] lg:leading-normal">
+                    Welcome to TopBridge Homes – where quality, comfort, and elegance meet to create the perfect living experience.
                   </p>
                 </div>
                 <div className="lg:flex gap-x-6 itms-center mt-10">
@@ -98,10 +92,7 @@ const HeroSlide = () => {
                 </div>
                 <div className="w-full lg:w-[658px] mt-10 lg:mt-3">
                   <p className="text-2xl md:text-3xl lg:text-[45px] fw-600 leading-[40px] lg:leading-normal">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  </p>
-                  <p className="fw-600 mt-4">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam. Fusce ut placerat orci. Nulla ac interdum ligula. Aenean et ipsum vel augue vehicula aliquet.
+                    Welcome to TopBridge Homes – where quality, comfort, and elegance meet to create the perfect living experience.
                   </p>
                 </div>
                 <div className="lg:flex gap-x-6 itms-center mt-10">
