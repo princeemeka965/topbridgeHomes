@@ -22,16 +22,12 @@ export const FOOTER_LIST = [
     name: "Home",
   },
   {
-    url: "/request",
-    name: "Get Help",
+    url: "/",
+    name: "Our Services",
   },
   {
-    url: "/faqs",
-    name: "FAQs",
-  },
-  {
-    url: "/join-us",
-    name: "Join Us",
+    url: "/",
+    name: "About Us",
   },
   {
     url: "/privacy",

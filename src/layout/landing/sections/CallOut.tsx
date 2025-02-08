@@ -3,20 +3,23 @@ import { FOOTER_LIST } from "./Routes";
 import React from "react";
 
 
-const CallOutMenu = ({show}) => {
+const CallOutMenu = ({ show }) => {
   return (
     <>
       <div className="fixed menu-top top-0 h-screen z-[1000] bg-modal w-full"
-      onClick={show}>
-        <div className="bg-primary relative menu-pop h-full text-white pl-5 pt-8 w-[75%]">
+        onClick={show}>
+        <div className="bg-white relative menu-pop h-full text-primary pl-5 pt-8 w-[75%]">
           <div className="mb-16">
-            <img
-              src='https://res.cloudinary.com/greenmouse-tech/image/upload/v1706192917/rsh/Group_48097864_1_mopmlj.png'
-              alt="logo"
-              width={100}
-              height={80}
-              className="w-48"
-            />
+            <div className="flex gap-3">
+              <img
+                src="https://res.cloudinary.com/campnet/image/upload/v1739015496/Frame_123_lbe5dh.png"
+                alt="logo"
+                width={100}
+                height={80}
+                className="w-10"
+              />
+              <span className="fw-600 md:text-lg text-sm unbound mt-1">TOP BRIDGE HOMES</span>
+            </div>
           </div>
           <div>
             <ul className=" grid gap-6">
@@ -28,11 +31,6 @@ const CallOutMenu = ({show}) => {
                 </li>
               ))}
             </ul>
-            <div className="mt-16">
-              <Link to="/auth/login" className="px-8 py-3 rounded-md bg-white text-primary fw-600">
-                Login
-              </Link>
-            </div>
           </div>
         </div>
       </div>
