@@ -9,6 +9,7 @@ const Services = () => {
         "Property Valuation & Appraisal",
         "Property Management",
         "Investment Consultation",
+        "Property Development"
     ];
     const data2 = [
         "Mortgage and Financing Assistance",
