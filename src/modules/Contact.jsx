@@ -43,9 +43,6 @@ export default function Contact() {
                                             support@topbridgeehomes.com <br></br>
                                             info@topbridgehomes.com
                                         </p>
-                                        <button className="mt-6 border text-black  py-3 px-24 rounded-lg transition duration-300">
-                                            Email Now
-                                        </button>
                                     </div>
 
                                     {/* Bid Your Price Card */}
@@ -63,12 +60,8 @@ export default function Contact() {
                                             Call  & WhatsApp Line
                                         </h3>
                                         <p className="mt-2 text-md leading-loose text-center">
-                                            0700 000 0000 <br></br>
-                                            0700 000 0000
+                                            +2347032803050 <br></br>
                                         </p>
-                                        <button className="mt-6 border text-black py-3 px-24 rounded-lg transition duration-300">
-                                            Call Now
-                                        </button>
                                     </div>
 
 
