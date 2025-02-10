@@ -1,4 +1,4 @@
-import ProfSlides, { ProfSlidesSm } from "../components/ProfSlides";
+import ProfSlides from "../components/ProfSlides";
 
 const Gallery = () => {
     return (
@@ -18,7 +18,7 @@ const Gallery = () => {
                     <ProfSlides />
                 </div>
                 <div className="mt-2 lg:hidden">
-                    <ProfSlidesSm />
+                    <ProfSlides />
                 </div>
             </div>
         </div>
