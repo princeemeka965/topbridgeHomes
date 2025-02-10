@@ -33,35 +33,35 @@ export default function ProfSlides() {
             <SwiperSlide className="">
                 <div className="text-center slider-bg py-4 rounded-lg">
                     <div className=" w-full mx-auto circle p-3 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179066/WhatsApp_Image_2025-02-09_at_12.12.44_adf3f039_z3gfmg.jpg" alt="img1" className="w-full object-cover h-96 m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179066/WhatsApp_Image_2025-02-09_at_12.12.44_adf3f039_z3gfmg.jpg" alt="img1" className="w-full h-96 m-auto" />
                     </div>
                 </div>
             </SwiperSlide>
             <SwiperSlide className="">
                 <div className="text-center slider-bg py-4 rounded-lg">
                     <div className=" w-full mx-auto circle p-3 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179061/WhatsApp_Image_2025-02-09_at_12.13.40_fc335887_ykcylp.jpg" alt="img1" className="w-full object-cover h-96 m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179061/WhatsApp_Image_2025-02-09_at_12.13.40_fc335887_ykcylp.jpg" alt="img1" className="w-full h-96 m-auto" />
                     </div>
                 </div>
             </SwiperSlide>
             <SwiperSlide className="">
                 <div className="text-center slider-bg py-4 rounded-lg">
                     <div className=" w-full mx-auto circle p-3 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179059/WhatsApp_Image_2025-02-09_at_12.17.13_31d7f2cd_tnrgo9.jpg" alt="img1" className="w-full object-cover h-96 m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179059/WhatsApp_Image_2025-02-09_at_12.17.13_31d7f2cd_tnrgo9.jpg" alt="img1" className="w-full h-96 m-auto" />
                     </div>
                 </div>
             </SwiperSlide>
             <SwiperSlide className="">
                 <div className="text-center slider-bg py-4 rounded-lg">
                 <div className=" w-full mx-auto circle p-3 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179058/WhatsApp_Image_2025-02-09_at_12.17.13_2806d432_wne6is.jpg" alt="img1" className="w-full object-cover h-96 m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179058/WhatsApp_Image_2025-02-09_at_12.17.13_2806d432_wne6is.jpg" alt="img1" className="w-full h-96 m-auto" />
                     </div>
                 </div>
             </SwiperSlide>
             <SwiperSlide className="">
                 <div className="text-center slider-bg py-4 rounded-lg">
                 <div className=" w-full mx-auto circle p-3 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179058/WhatsApp_Image_2025-02-09_at_12.17.13_28e55a6a_vapqzq.jpg" alt="img1" className="w-full object-cover h-96 m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179058/WhatsApp_Image_2025-02-09_at_12.17.13_28e55a6a_vapqzq.jpg" alt="img1" className="w-full h-96 m-auto" />
                     </div>
                 </div>
             </SwiperSlide>
@@ -100,35 +100,35 @@ export function ProfSlidesSm() {
                 <SwiperSlide className="mb-8">
                     <div className="text-center slider-bg py-4 rounded-lg">
                         <div className=" w-full mx-auto circle p-6 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179066/WhatsApp_Image_2025-02-09_at_12.12.44_adf3f039_z3gfmg.jpg" alt="img1" className="w-full h-48 object-cover m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179066/WhatsApp_Image_2025-02-09_at_12.12.44_adf3f039_z3gfmg.jpg" alt="img1" className="w-full h-60 m-auto" />
                         </div>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className="">
                     <div className="text-center slider-bg py-4 rounded-lg">
                         <div className=" w-full mx-auto circle p-6 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179061/WhatsApp_Image_2025-02-09_at_12.13.40_fc335887_ykcylp.jpg" alt="img1" className="w-full h-48 object-cover m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179061/WhatsApp_Image_2025-02-09_at_12.13.40_fc335887_ykcylp.jpg" alt="img1" className="w-full h-60 m-auto" />
                         </div>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className="">
                     <div className="text-center slider-bg py-4 rounded-lg">
                         <div className=" w-full mx-auto circle p-6 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179059/WhatsApp_Image_2025-02-09_at_12.17.13_31d7f2cd_tnrgo9.jpg" alt="img1" className="w-full h-48 object-cover m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179059/WhatsApp_Image_2025-02-09_at_12.17.13_31d7f2cd_tnrgo9.jpg" alt="img1" className="w-full h-60 m-auto" />
                         </div>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className="">
                     <div className="text-center slider-bg py-4 rounded-lg">
                         <div className=" w-full mx-auto circle p-6 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179058/WhatsApp_Image_2025-02-09_at_12.17.13_2806d432_wne6is.jpg" alt="img1" className="w-full h-48 object-cover m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179058/WhatsApp_Image_2025-02-09_at_12.17.13_2806d432_wne6is.jpg" alt="img1" className="w-full h-60 m-auto" />
                         </div>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className="">
                     <div className="text-center slider-bg py-4 rounded-lg">
                         <div className=" w-full mx-auto circle p-6 bg-white">
-                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179058/WhatsApp_Image_2025-02-09_at_12.17.13_28e55a6a_vapqzq.jpg" alt="img1" className="w-full h-48 m-auto" />
+                        <img src="https://res.cloudinary.com/campnet/image/upload/v1739179058/WhatsApp_Image_2025-02-09_at_12.17.13_28e55a6a_vapqzq.jpg" alt="img1" className="w-full h-60 m-auto" />
                         </div>
                     </div>
                 </SwiperSlide>
