@@ -77,7 +77,7 @@ export default function Contact() {
                                         </div>
                                         <h3 className="mt-3 text-lg font-semibold">Office Address</h3>
                                         <p className="mt-2 text-md leading-loose text-center">
-                                            3, Olufunmilola Okikiolu Street, Off Toyin Street, Ikeja, Lagos State , Ikeja, Nigeria.
+                                            29 Femi Okunu Estate , Jakande Lekki , Lagos Nigeria
                                         </p>
                                     </div>
                                 </div>
@@ -90,13 +90,13 @@ export default function Contact() {
                             <div className="bg-white rounded-lg overflow-hidden">
                                 <iframe
                                     title="Office Location"
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126202.72931046391!2d3.2998591051244743!3d7.163197312558428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103aeb1e3d7cc6fd%3A0xa1360f091a02c5f9!2sAbeokuta!5e0!3m2!1sen!2sng!4v1614303830927!5m2!1sen!2sng"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126202.72931046391!2d3.2998591051244743!3d7.163197312558428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103aeb1e3d7cc6fd%3A0xa1360f091a02c5f9!2s29%20Femi%20Okunu%20Estate%2C%20Jakande%20Lekki%2C%20Lagos%2C%20Nigeria!5e0!3m2!1sen!2sng!4v1614303830927!5m2!1sen!2sng"
                                     width="100%"
                                     height="380"
                                     style={{ border: 0 }}
-                                    allowFullScreen=""
+                                    allowFullScreen
                                     loading="lazy"
-                                ></iframe>
+                                />
                             </div>
                         </div>
                     </div>
