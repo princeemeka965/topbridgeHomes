@@ -3,7 +3,7 @@ import React from "react";
 export default function ProfSlides() {
     const images = [
         "https://res.cloudinary.com/campnet/image/upload/v1739179066/WhatsApp_Image_2025-02-09_at_12.12.44_adf3f039_z3gfmg.jpg",
-        "https://res.cloudinary.com/campnet/image/upload/v1739039160/house-isolated-field_gg66nx.jpg",
+        "https://res.cloudinary.com/campnet/image/upload/v1739271616/WhatsApp_Image_2025-02-11_at_11.54.24_220c6461_tg0nsd.jpg",
         "https://res.cloudinary.com/campnet/image/upload/v1685355331/35bf27d57db80afc7e8079e6cdfc6df6_fxhbzv.jpg",
         "https://res.cloudinary.com/campnet/image/upload/v1739179061/WhatsApp_Image_2025-02-09_at_12.13.40_fc335887_ykcylp.jpg",
         "https://res.cloudinary.com/campnet/image/upload/v1739179059/WhatsApp_Image_2025-02-09_at_12.17.13_31d7f2cd_tnrgo9.jpg",

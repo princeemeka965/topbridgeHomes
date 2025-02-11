@@ -59,9 +59,9 @@ export default function Contact() {
                                         <h3 className="mt-3 text-lg font-semibold">
                                             Call  & WhatsApp Line
                                         </h3>
-                                        <p className="mt-2 text-md leading-loose text-center">
+                                        <a href="https://wa.link/stqx8b" target="_blank" className="mt-2 underline text-md leading-loose text-center">
                                             +2347032803050 <br></br>
-                                        </p>
+                                        </a>
                                     </div>
 
 
