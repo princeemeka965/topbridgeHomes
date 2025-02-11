@@ -40,8 +40,8 @@ export default function Contact() {
                                             Email Support
                                         </h3>
                                         <p className="mt-2 text-md leading-loose text-center">
-                                            support@topbridgeehomes.com <br></br>
-                                            info@topbridgehomes.com
+                                        support@topbridgehomes.ng <br></br>
+                                        Info@topbridgehomes.ng
                                         </p>
                                     </div>
 
@@ -61,6 +61,10 @@ export default function Contact() {
                                         </h3>
                                         <a href="https://wa.link/stqx8b" target="_blank" className="mt-2 underline text-md leading-loose text-center">
                                             +2347032803050 <br></br>
+                                        </a>
+                                        <a href="https://wa.link/uayg8l" target="_blank" className="mt-2 underline text-md leading-loose text-center">
+                                            +234 704 758 9658
+                                            <br></br>
                                         </a>
                                     </div>
 
